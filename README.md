@@ -14,6 +14,7 @@ Colley Method for comparison as well as other computer ranking systems if they a
 0.1
 - Initial release
 - Not usable but works when matrix issue is fixed
+
 0.5
 - Fixed matrix issue
 - Team summary function still in works
